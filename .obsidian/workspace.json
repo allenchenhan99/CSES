@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "84b7403faa9921c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e848321d17552eda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0fdebbcb5f236b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introductory Problems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introductory Problems"
+            }
+          }
+        ]
+      },
+      {
+        "id": "188bdb4d41cdc818",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1895cb38d029d23",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "288ef268df1c934e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7de0274c44882220",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af540ef4aecca16d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a7154c917d262ec9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4c8976fd3193570c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bbda2ed123dd00fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a7839aede1ef9fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20ff2191fc19cfb2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introductory Problems.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introductory Problems"
+            }
+          },
+          {
+            "id": "887e0140669adc44",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Introductory Problems.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introductory Problems"
+            }
+          },
+          {
+            "id": "6187e7c217e21eb6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "25e908abc99f7ced",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8032070914f79e4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Introductory Problems.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Introductory Problems"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a0fdebbcb5f236b6",
+  "lastOpenFiles": [
+    "code/Introductory Problems/Gray_Code.cpp",
+    "code/Introductory Problems/Panlindrome_Reorder.cpp",
+    "code/Introductory Problems/Coin_Piles.cpp",
+    "code/Introductory Problems/Trailing_Zeros.cpp",
+    "code/Introductory Problems/Trailing_Zero.cpp",
+    "code/Introductory Problems/Bit_String.cpp",
+    "code/Introductory Problems/Bits_String.cpp",
+    "code/Introductory Problems/Two_Sets.cpp",
+    "code/Introductory Problems/Two_Knights.cpp",
+    "code/Introductory Problems/Number_Spiral.cpp",
+    "code/Introductory Problems/Permutations.cpp",
+    "Introductory Problems/Weird Algorithm.md",
+    "Introductory Problems.md",
+    "Welcome.md"
+  ]
+}
