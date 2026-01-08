@@ -7,12 +7,17 @@ int main(){
     int total = 1 << n;
     vector<string> arr = {"0", "1"};
     for(int i = 2; i <= n; ++i){
-        for(int j = pow(2, n - 1); j <= pow(2, n); ++j){
-            arr[j] = arr[]
+        int m = arr.size();
+        for(int j = m - 1; j >= 0; --j){
+            arr.push_back(arr[j]);
         }
+        for(int j = 0; j < m; ++j)
+            arr[j].insert(0, "0");
+        for(int j = m; j < arr.size(); ++j)
+            arr[j].insert(0, "1");
     }
-    for(int i = 0; i < total; ++i)
-        cout << arr[i] << endl;
+    for(auto &s: arr)
+        cout << s << endl;
     return 0;
 }
 // 0
