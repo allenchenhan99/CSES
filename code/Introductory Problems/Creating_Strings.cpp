@@ -32,7 +32,7 @@ int main(){
     int n = s.size();
     perm(s, 0, n);
     cout << ans.size() << '\n';
-    sort(ans.begin(), ans.end());
+    sort(ans.begin(), ans.end());   
     for(auto& a : ans)
         cout << a << '\n';
     return 0;
